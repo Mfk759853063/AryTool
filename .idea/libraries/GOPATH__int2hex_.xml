@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;int2hex&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../mytest" />
+      <root url="file://$PROJECT_DIR$/../livego-master" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../YYCMS" />
+      <root url="file://$PROJECT_DIR$/../surgemq-master" />
+      <root url="file://$PROJECT_DIR$/../KuKaHome" />
+      <root url="file://$PROJECT_DIR$/../joy4-master" />
+      <root url="file://$PROJECT_DIR$/../echoDemo" />
+      <root url="file://$PROJECT_DIR$/../int2hex" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../mytest" />
+      <root url="file://$PROJECT_DIR$/../livego-master" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../YYCMS" />
+      <root url="file://$PROJECT_DIR$/../surgemq-master" />
+      <root url="file://$PROJECT_DIR$/../KuKaHome" />
+      <root url="file://$PROJECT_DIR$/../joy4-master" />
+      <root url="file://$PROJECT_DIR$/../echoDemo" />
+      <root url="file://$PROJECT_DIR$/../int2hex" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
